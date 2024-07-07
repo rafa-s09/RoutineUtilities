@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "b703e0253bfcb479",
+    "type": "split",
+    "children": [
+      {
+        "id": "729cf849a9af2cd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bfd87a67267c8bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "External/BrasilAPI/Corretora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82913af29ae8aecf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3e5ac935061efab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b3a1e894b780aec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9204bf2cca561ba6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d451621c599463f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f79eb55ae5ad1b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a865301f1481cd24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dbe7f547dd31646",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "External/BrasilAPI/Corretora.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bff91e4d33e0bae6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "External/BrasilAPI/Corretora.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1f54203e659c21d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "419f1d5ffb5cdf52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "External/BrasilAPI/Corretora.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2bfd87a67267c8bb",
+  "lastOpenFiles": [
+    "External/ExternalClient.md",
+    "External/BrasilAPI/Corretora.md",
+    "External/BrasilAPI/Cnpj.md",
+    "External/BrasilAPI/Cep.md",
+    "External/BrasilAPI/Bank.md",
+    "External/BrasilAPI",
+    "DataModels/RuHttpResponse.md",
+    "Readme.md",
+    "Security/EncryptionManager.md",
+    "Enumerators/VehicleTypes.md",
+    "Enumerators/DocumentValidationResponse.md",
+    "Database/RepositoryBase.md",
+    "Security/Generator.md",
+    "DataModels/RuKey.md",
+    "External",
+    "Enumerators/TextEncode.md",
+    "Utility/Extensions.md",
+    "Utility/BrazilDocumentValidation.md",
+    "DataModels",
+    "Database",
+    "Utility",
+    "Enumerators",
+    "Welcome.md",
+    "Security"
+  ]
+}
